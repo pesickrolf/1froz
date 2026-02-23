@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class VpnServer {
   final String id;
   final String name;
