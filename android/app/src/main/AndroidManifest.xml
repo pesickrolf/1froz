@@ -11,7 +11,7 @@
         android:label="1froz"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
-        android:banner="@mipmap/ic_banner">
+        android:banner="@drawable/ic_banner">
         
         <activity
             android:name=".MainActivity"
